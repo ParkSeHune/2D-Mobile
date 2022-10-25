@@ -1,0 +1,25 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "simple-android-notifications"
+  }
+  digests {
+    sha256: "c\375\a\245\346\356\307oE\304]\224F@\201H\\\000C\230\201V-\237\021%58\333Dc\337"
+  }
+}
+library {
+  digests {
+    sha256: "\263\v\320\224\326\345\377\316\253\363\337(\304\246\256\362\224/u\r\022\023\204\324B\'8S~vD\026"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 1
+}

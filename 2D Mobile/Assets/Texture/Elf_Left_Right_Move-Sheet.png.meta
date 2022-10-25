@@ -1,0 +1,750 @@
+fileFormatVersion: 2
+guid: c366199ca8dddc94bad6d52f79c54ed6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 984
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c093d10005d624d8208d8dc799c862
+      internalID: 1638421012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 984
+        width: 56
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe1e09a5fa2004287abcf9a8bfc4c7
+      internalID: -822110655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 984
+        width: 48
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4243c38b92157ec4da9737b8653da779
+      internalID: -903773646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 984
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526c84606b994ee428827f4323ffe28a
+      internalID: 692885351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 796
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb30845d851a2824d98fb69c574958e8
+      internalID: 148210623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 792
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c877e81dbabb4d974587e1e3725be
+      internalID: -997620245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 788
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ae8cab7683964c9e88051ca14f926
+      internalID: -1257542092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 796
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de3fcc9377ce904a9762c7b28fce38e
+      internalID: 368121110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 792
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdacc567f1a6974cab383b8ca74fc14
+      internalID: -1548518221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 800
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bbcce7fe738c04fa2d8afd12e684fd
+      internalID: -1331512768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 600
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2623fa3cd51cf7248b9edf95318172e9
+      internalID: -56758540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 600
+        width: 56
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552f2c477225e34e85ee22baa10f0cd
+      internalID: -1272586399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 600
+        width: 48
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf184073d1d1b149af265726e03dd72
+      internalID: -821746557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 600
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3427cfdd19f0a1d4f95dcec19dc955f7
+      internalID: -1353967692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 412
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fba37a5cc3ce704c9137b6cd2f2c36d
+      internalID: -1406056387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 408
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf842d6620ab5d43badf2da9558ab40
+      internalID: 141578908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 404
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d63cf3bab53547a0f7864eecc50dd
+      internalID: -1673532129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 412
+        width: 84
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5f02c4e67f4e944948f0706f0bb620
+      internalID: 739040532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 408
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a20fb299aa9454ba47b45edccddf69
+      internalID: 1200627470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 416
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e1d2a17d38768479a1c7bbb6ae17fd
+      internalID: -461768578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 76
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf823d9f59374c409205e4dda9b8248
+      internalID: 130096733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 84
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c9ddf52115bd64c82a14247e2d436f
+      internalID: 650434442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 216
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7a6323b34b914bb7f6837ed96c742
+      internalID: -2145201778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 216
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41461ad44d117594e8522e48e1a58221
+      internalID: -186979944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 24
+        width: 76
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039f59f12accbf146aed9821ff1c4b91
+      internalID: -1979941533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 24
+        width: 84
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe66e6de002e5648b58d9aa72e58d39
+      internalID: 958260567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 24
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06fe709bfaaba643af2658f988da71f
+      internalID: 1906493643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Left_Right_Move-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 24
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611791b52a4eab94a88dcb5f95233c4b
+      internalID: -1943566057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Elf_Left_Right_Move-Sheet_19: -461768578
+      Elf_Left_Right_Move-Sheet_11: -1272586399
+      Elf_Left_Right_Move-Sheet_2: -903773646
+      Elf_Left_Right_Move-Sheet_12: -821746557
+      Elf_Left_Right_Move-Sheet_1: -822110655
+      Elf_Left_Right_Move-Sheet_15: 141578908
+      Elf_Left_Right_Move-Sheet_14: -1406056387
+      Elf_Left_Right_Move-Sheet_24: -1979941533
+      Elf_Left_Right_Move-Sheet_26: 1906493643
+      Elf_Left_Right_Move-Sheet_20: 130096733
+      Elf_Left_Right_Move-Sheet_4: 148210623
+      Elf_Left_Right_Move-Sheet_27: -1943566057
+      Elf_Left_Right_Move-Sheet_3: 692885351
+      Elf_Left_Right_Move-Sheet_7: 368121110
+      Elf_Left_Right_Move-Sheet_17: 739040532
+      Elf_Left_Right_Move-Sheet_9: -1331512768
+      Elf_Left_Right_Move-Sheet_22: -2145201778
+      Elf_Left_Right_Move-Sheet_25: 958260567
+      Elf_Left_Right_Move-Sheet_5: -997620245
+      Elf_Left_Right_Move-Sheet_23: -186979944
+      Elf_Left_Right_Move-Sheet_18: 1200627470
+      Elf_Left_Right_Move-Sheet_16: -1673532129
+      Elf_Left_Right_Move-Sheet_21: 650434442
+      Elf_Left_Right_Move-Sheet_6: -1257542092
+      Elf_Left_Right_Move-Sheet_13: -1353967692
+      Elf_Left_Right_Move-Sheet_0: 1638421012
+      Elf_Left_Right_Move-Sheet_10: -56758540
+      Elf_Left_Right_Move-Sheet_8: -1548518221
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
