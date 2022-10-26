@@ -11,6 +11,7 @@ TagManager:
   - Snow Right Portal
   - Snow Left Portal
   - Posion
+  - Monster
   layers:
   - Default
   - TransparentFX
