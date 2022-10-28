@@ -29,6 +29,11 @@ public class Player : MonoBehaviour
         {
             transform.position = Vector2.zero;
         }
+
+        if (health > 100)
+        {
+            health = 100;
+        }
     }
 
     private void FixedUpdate()
@@ -72,12 +77,13 @@ public class Player : MonoBehaviour
             transform.position = new Vector3(-34.3f, -2.85f, 0);
         }
 
-        if (collision.CompareTag("Posion"))
+        if (collision.CompareTag("Monster"))
         {
             if (health < 100)
             {
                 health += 10;
             }
+
             Debug.Log("Ãæµ¹");
 
             Destroy(collision.gameObject);

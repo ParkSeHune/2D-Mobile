@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638018537381232766
-    m_Hash: 601768225
+      ticks: 638025461545639796
+    m_Hash: 3181801827
   m_LockFileStatus:
     m_FilePath: C:/Users/user/Desktop/Unity/2DMobile/2D-Mobile/2D Mobile/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638018537408473289
-    m_Hash: 3803168979
+      ticks: 638025461545657572
+    m_Hash: 1120668263
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -1067,12 +1067,14 @@ m_ResolvedPackages:
     - 1.7.0-pre.2
     - 1.7.0
     - 1.7.1
+    - 1.7.2
     compatible:
     - 1.6.4
     - 1.7.0-pre.1
     - 1.7.0-pre.2
     - 1.7.0
     - 1.7.1
+    - 1.7.2
     verified: 1.6.4
   dependencies:
   - name: com.unity.modules.director
@@ -3289,10 +3291,12 @@ m_ResolvedPackages:
     - 5.0.0
     - 5.0.1
     - 5.0.2
+    - 5.0.3
     compatible:
     - 5.0.1
     - 5.0.2
-    verified: 5.0.2
+    - 5.0.3
+    verified: 5.0.3
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -3768,9 +3772,11 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     - 1.4.3
+    - 1.5.2
     compatible:
     - 1.4.2
     - 1.4.3
+    - 1.5.2
     verified: 1.4.3
   dependencies:
   - name: com.unity.modules.unitywebrequest
